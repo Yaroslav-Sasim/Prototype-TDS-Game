@@ -1,0 +1,41 @@
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\bin\x86\Debug\LoginRegis.exe.config
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\bin\x86\Debug\LoginRegis.exe
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\bin\x86\Debug\LoginRegis.pdb
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.FrmLogin.resources
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.FrmMain.resources
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.FrmRegister.resources
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.Properties.Resources.resources
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.csproj.GenerateResource.cache
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.exe
+C:\Users\Smart\Desktop\LoginRegis\LoginRegis\obj\x86\Debug\LoginRegis.pdb
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\bin\x86\Debug\BaseGame.accdb
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\bin\x86\Debug\LoginRegis.exe.config
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\bin\x86\Debug\LoginRegis.exe
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\bin\x86\Debug\LoginRegis.pdb
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.csprojAssemblyReference.cache
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrmLogin.resources
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrmMain.resources
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrmRegister.resources
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.Properties.Resources.resources
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.Score.resources
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.csproj.GenerateResource.cache
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.exe
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.pdb
+C:\Users\Smart\Desktop\LoginRegis — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrnGame.resources
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\bin\x86\Debug\BaseGame.accdb
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\bin\x86\Debug\LoginRegis.exe.config
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\bin\x86\Debug\LoginRegis.exe
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\bin\x86\Debug\LoginRegis.pdb
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.csprojAssemblyReference.cache
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrmLogin.resources
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrmMain.resources
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrmRegister.resources
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.FrnGame.resources
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.Properties.Resources.resources
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.Score.resources
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.csproj.GenerateResource.cache
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.csproj.CoreCompileInputs.cache
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.exe
+C:\Users\Smart\Desktop\LoginRegis — копия — копия\LoginRegis\obj\x86\Debug\LoginRegis.pdb
